@@ -1,6 +1,3 @@
-# simplelogin
-Since i can't find a good implementation of the simplelogin api, had to DIY
-
 # SimpleLogin API Client
 
 A Python client for interacting with the SimpleLogin API.
