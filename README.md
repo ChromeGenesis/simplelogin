@@ -21,7 +21,7 @@ pip install requests
 
 ### Initialization
 
-First, import the client and initialize it with your SimpleLogin API key.
+First, import the client and initialize it with your SimpleLogin [API](https://app.simplelogin.io/dashboard/api_key) key.
 
 ````python
 from simplelogin import SimpleLoginClient, AliasMode
